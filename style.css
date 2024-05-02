@@ -7,35 +7,39 @@ body {
 }
 
 h1 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Prompt", sans-serif;
   color: white;
   font-size: 40px;
   font-weight: 600;
+  font-style: normal;
 }
 
 h2 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Prompt", sans-serif;
   font-size: 36px;
   color: white;
   font-weight: 600;
+  font-style: normal;
 }
 
 p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Prompt", sans-serif;
   font-size: 28px;
   color: white;
   font-weight: 600;
+  font-style: normal;
 }
 
 #progress-bar #progress {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Prompt", sans-serif;
   font-size: 18px;
   color: white;
   font-weight: 400;
+  font-style: normal;
 }
 
 /* label {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Prompt", sans-serif;
     font-size: 18px;
     color: red;
   } */
