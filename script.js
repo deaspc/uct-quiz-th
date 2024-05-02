@@ -126,22 +126,22 @@ const questions = {
 const result = {
   Immortaljellyfish: [
     "<h1>แมงกะพรุนอมตะ</h1>",
-    "<img src='asset/cer.png' id='imageToSave'/>",
+    "<img src='asset/resultjellyfish.png' id='imageToSave'/>",
     "นี่คือผลลัพธ์ของคุณ",
   ],
   Axolotol: [
     "<h1>Axolotol</h1>",
-    "<img src='asset/cer.png' id='imageToSave'/>",
+    "<img src='asset/resultaxo.png' id='imageToSave'/>",
     "นี่คือผลลัพธ์ของคุณ",
   ],
   Vogelkop: [
     "<h1>Vogelkop superb bird-of-paradise</h1>",
-    "<img src='asset/cer.png' id='imageToSave'/>",
+    "<img src='asset/resultbird.png' id='imageToSave'/>",
     "นี่คือผลลัพธ์ของคุณ",
   ],
   Sunfish: [
     "<h1>Sunfish</h1>",
-    "<img src='asset/cer.png' id='imageToSave'/>",
+    "<img src='asset/resultfish.png' id='imageToSave'/>",
     "นี่คือผลลัพธ์ของคุณ",
   ],
 };
