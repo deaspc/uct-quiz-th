@@ -125,24 +125,24 @@ const questions = {
 // constant to store the description for each type of traveller
 const result = {
   Immortaljellyfish: [
-    "<h1>Immortal jellyfish</h1>",
+    "<h1>แมงกะพรุนอมตะ</h1>",
     "<img src='asset/cer.png' id='imageToSave'/>",
-    "Here is your result",
+    "นี่คือผลลัพธ์ของคุณ",
   ],
   Axolotol: [
     "<h1>Axolotol</h1>",
     "<img src='asset/cer.png' id='imageToSave'/>",
-    "Here is your result",
+    "นี่คือผลลัพธ์ของคุณ",
   ],
   Vogelkop: [
     "<h1>Vogelkop superb bird-of-paradise</h1>",
     "<img src='asset/cer.png' id='imageToSave'/>",
-    "Here is your result",
+    "นี่คือผลลัพธ์ของคุณ",
   ],
   Sunfish: [
     "<h1>Sunfish</h1>",
     "<img src='asset/cer.png' id='imageToSave'/>",
-    "Here is your result",
+    "นี่คือผลลัพธ์ของคุณ",
   ],
 };
 
